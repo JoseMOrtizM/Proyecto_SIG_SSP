@@ -1,0 +1,5 @@
+En la carpeta php_requires en el archivo conexion.php debes configurar las siguientes variables:
+$url_sitio
+$servidor_nombre
+$servidor_usuario
+$servidor_contrasena
